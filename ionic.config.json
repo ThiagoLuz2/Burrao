@@ -1,0 +1,7 @@
+{
+  "name": "Burrao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
